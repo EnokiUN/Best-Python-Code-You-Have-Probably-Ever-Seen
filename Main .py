@@ -20,4 +20,6 @@ str(print(1,
 
                 4)))  
 
-print ("Hello, World!);
+if False and False and 1 != 0:
+
+ print ("Hello, World!);
