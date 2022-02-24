@@ -15,7 +15,7 @@ def print(num1:str, num:bool=69)-> None:
         return shhsh(1 if True else False, 2)
  return print
  
-sys.stdout.write(
+math.stdout.write(
 str(print(1,
 
 
