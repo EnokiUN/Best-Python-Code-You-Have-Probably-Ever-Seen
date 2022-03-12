@@ -24,4 +24,4 @@ str(print(1,
 
 if False and False and 1 != 0:
 
- print ("Hello, World!);
+ return               print ("Hello, World!);
