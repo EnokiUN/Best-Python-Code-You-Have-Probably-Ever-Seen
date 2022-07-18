@@ -2,7 +2,7 @@ import random
 
 class math: ...
 
-math = (lambda:__import__(math().__class.__name__))()
+math = (lambda:__import__(math().__class__.__name__))()
 
 
 
