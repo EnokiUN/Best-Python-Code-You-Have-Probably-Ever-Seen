@@ -1,13 +1,13 @@
-import random
+import random;
 
-class math: ...
+class math: ...;
 
-math = (lambda:__import__(math().__class__.__name__))()
-
-
+math = (lambda:__import__(math().__class__.__name__))();
 
 
-import io, sys as math
+
+
+import io, sys as math;
 def print(num1:str, num:bool=69)-> None:
 
  def shhsh(nam, nem):
