@@ -1,6 +1,8 @@
 import random
 
-math = __import__("math")
+class math: ...
+
+math = (lambda:__import__(math().__class.__name__))()
 
 
 
