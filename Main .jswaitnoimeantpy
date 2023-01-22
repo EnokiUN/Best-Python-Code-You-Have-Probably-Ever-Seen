@@ -14,7 +14,7 @@ def print(num1:str, num:bool=69)-> None:
           if not True is not (not False):
                      return num1+nem;
  def print():
-        return shhsh(1 if True else False, 2)
+        return shhsh(1 if True else False, 2);
  return print;
  
 math.stdout.write(
@@ -22,7 +22,7 @@ str(print(1,
 
 
 
-                4)()))  
+                4)()));  
 
 if False and False and 1 != 0:
 
